@@ -41,4 +41,6 @@ localhost:8080/all(listar productos)
 localhost:8080/Producto/{id}
 localhost:8080/clientes/{id}
 "
+
+
 eso seria todo por este proyecto, muchas gracias si as llegado hasta aqui y utilizaste este proyecto, es una buena practica como introduccion al funcionamiento de una API REST simple, cualquier duda o consulta contacteme por md o gmail y respodere con gusto.
