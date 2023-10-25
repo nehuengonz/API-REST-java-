@@ -1,6 +1,6 @@
 # API-REST-java-
 programa desarrollado en java con Spring boot, mysql workbench, y thunder
-ejercicio realizado para la dplomatura en springboot con java 
+ejercicio realizado para la diplomatura en springboot con java 
 
 CONSIGNA:
 "
@@ -14,16 +14,14 @@ En cuanto a las especificaciones técnicas, nuestro Líder Técnico requiere lo 
 -Proporcionar especificaciones claras de las endpoints, distinguiendo una ruta para el comerciante y otra para los clientes (a quien sólo se muestran los precios de consumidor final, no pueden modificar, agregar ni eliminar productos).
 "
 
-
-
 COMO PROBAR EL PROGRAMA:
 tener la version java 17,
 descargar la extension thunder en visual studio code,descargar la extension de springboot initializer java suport,descargar mysql workbench version completa (340 mb).
 
 1.abrir el proyecto y ejecutar el archivo "trabajopractico1\src\main\java\com\example\trabajopractico1\ServletInitializer.java"
-si no hay problemas deberia mantenerse ejecutado el servidor(verificar que mysql este funcionando correctamente con las mismas plication propeties utilizadas en el proyecto)
+si no hay problemas deberia mantenerse ejecutado el servidor(verificar que mysql este funcionando correctamente con las mismas aplication propeties utilizadas en el proyecto)
 2.ir a la extension de thunder en la parte izquierda de visual studios.
-3.crear una  "new request"\
+3.crear una  "new request".
 4.ir al body y agregar un archivo json con la siguiente estructura.
 {
   "nombre": "Producto 1000 ",
